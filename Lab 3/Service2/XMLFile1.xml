@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <DirectoryOptions>
+    <SourceDirectory>C:\3sem\3#\SourceDirectory</SourceDirectory>
+    <TargetDirectory>C:\3sem\3#\TargetDirectory</TargetDirectory>
+  </DirectoryOptions>
+  <ArchiveOptions>
+    <ArchiveName>archive.zip</ArchiveName>
+  </ArchiveOptions>
+</Options>
