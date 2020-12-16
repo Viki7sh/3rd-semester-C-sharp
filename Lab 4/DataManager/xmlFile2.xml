@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataOptions>
+  <ConnectionString>Data Source = DESKTOP-MG186Q5; Initial Catalog = AdventureWorksLT2019; Integrated Security = True</ConnectionString>
+  <SourceDirectory>C:\3sem\c</SourceDirectory>
+  <TargetDirectory>C:\3sem\c</TargetDirectory>
+  <LoggerConnectionString>Data Source = DESKTOP-MG186Q5; Initial Catalog = ApplicationInsights; Integrated Security = True</LoggerConnectionString>
+</DataOptions>

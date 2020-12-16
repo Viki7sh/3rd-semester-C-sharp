@@ -1,0 +1,7 @@
+{
+  "DirectoryOptions": {
+    "SourceDirectory": "C:\\3sem\\c#\\SourceDirectory",
+    "TargetDirectory": "C:\\3sem\\c#\\TargetDirectory"
+  },
+  "ArchiveOptions": { "ArchiveName": "archive.zip" }
+}
